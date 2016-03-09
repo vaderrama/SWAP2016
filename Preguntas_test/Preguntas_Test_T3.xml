@@ -1,0 +1,19 @@
+TEMA 3
+<pregunta>
+  <enunciado>¿Con que elementos se podría formar un “Backbone”?</enunciado>
+  <opcionA>Un hub</opcionA>
+  <opcionB>Un switch</opcionB>
+  <opcionC>Un router</opcionC>
+  <opcionD>Las 3 son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Para que servicio es ideal la configuración de DMZ doble?</enunciado>
+  <opcionA>Una granja web</opcionA>
+  <opcionB>Para una subred interna</opcionB>
+  <opcionC>Un sistema operativo</opcionC>
+  <opcionD>Un cortafuegos</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+

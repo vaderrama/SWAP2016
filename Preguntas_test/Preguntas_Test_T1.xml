@@ -1,0 +1,18 @@
+TEMA 1
+<pregunta>
+  <enunciado>¿Un sitio con poco tráfico llegara a funcionar correctamente con una sola maquina , en el caso de que empiece a incrementarse el numero de accesos , que síntomas podemos ver en nuestra maquina? </enunciado>
+  <opcionA>Fallos únicamente de hardware</opcionA>
+  <opcionB>Fallos tanto en software , como en hardware</opcionB>
+  <opcionC>Fallos únicamente en software</opcionC>
+  <opcionD>Fallos leves de aumento de la temperatura</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Qué es la escalabilidad?</enunciado>
+  <opcionA>La capacidad para dar soporte a un número creciente de usuarios.</opcionA>
+  <opcionB>La capacidad de dar soporte al sistema operativo</opcionB>
+  <opcionC>La capacidad para aumentar la magnitud de un servidor orientado al servicio web</opcionC>
+  <opcionD>La capacidad para disminuir el consumo de memoria de un sistema operativo</opcionD>
+  <solucion>A</solucion>
+</pregunta>

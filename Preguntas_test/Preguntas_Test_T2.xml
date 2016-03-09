@@ -1,0 +1,19 @@
+TEMA 2
+<pregunta>
+  <enunciado>¿Qué elemento suele fallar en un servidor? </enunciado>
+  <opcionA>La CPU</opcionA>
+  <opcionB>La memoria</opcionB>
+  <opcionC>Los discos y la refrigeración</opcionC>
+  <opcionD>Todas son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿A qué se quiere referir, cuando se menciona el escalado de ampliación vertical?</enunciado>
+  <opcionA>Añadir máquinas a algún subsistema</opcionA>
+  <opcionB>Incrementar la RAM</opcionB>
+  <opcionC>Incrementar la CPU</opcionC>
+  <opcionD>La respuesta B y C</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
