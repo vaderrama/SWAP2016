@@ -1,0 +1,18 @@
+<pregunta>
+  <enunciado>¿Que tarea adiccional , ademas de distribuir el trafico entre varios servidores , realiza el balanceador?</enunciado>
+  <opcionA>Comprobar la disponiblidad de los servidores</opcionA>
+  <opcionB>Proteger de dirversos ataques</opcionB>
+  <opcionC>Derivar en funcion del tipo de trafico</opcionC>
+  <opcionD>Todas las anteriores son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Que proceso sucede tras teclear una URL en el navegador?</enunciado>
+  <opcionA>Realiza la peticion HTTP</opcionA>
+  <opcionB>El servidor devuelve la pagina HTML completa</opcionB>
+  <opcionC>El navegador resuelve el nombre del sitio web (DNS)</opcionC>
+  <opcionD>El navegador contacta con TCP</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
