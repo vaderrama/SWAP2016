@@ -1,0 +1,18 @@
+<pregunta>
+  <enunciado>¿Para que sirve un cortafuegos?</enunciado>
+  <opcionA>Para controlar protocolos de aplicación</opcionA>
+  <opcionB>Controla el tráfico de red a nivel de protocolo de red</opcionB>
+  <opcionC>Para ocultar la verdadera dirección del servidor</opcionC>
+  <opcionD>Todas las anteriores son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>¿Que acciones usaremos para asegurar un servidor?</enunciado>
+  <opcionA>Deshabilitar el FTP y el SMTP si no se van a utilizar y usar filtros TCP/IP.</opcionA>
+  <opcionB>Eliminar los drivers de red que no sean necesarios y renombrar las cuentas de administrador e invitado</opcionB>
+  <opcionC>Establecer políticas de seguridad y eliminar cuentas y grupos de usuarios no necesarios</opcionC>
+  <opcionD>Todas las anteriores son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
