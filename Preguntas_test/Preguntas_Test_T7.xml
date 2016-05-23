@@ -1,0 +1,20 @@
+<pregunta>
+  <enunciado>¿Que componente falla comunmente mas en un servidor?</enunciado>
+  <opcionA>Las fuentes de alimentacion</opcionA>
+  <opcionB>Los discos duros</opcionB>
+  <opcionC>La memoria RAM , acaba por saturar y dejar de funcionar</opcionC>
+  <opcionD>Los cables de red</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Un RAID , ¿cuando funcionara mas rapido?</enunciado>
+  <opcionA>Por software</opcionA>
+  <opcionB>Por hardware</opcionB>
+  <opcionC>Utilizando ambas maneras</opcionC>
+  <opcionD>No importa, funcionara igual siempre</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+
+
